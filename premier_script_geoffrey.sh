@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Bonjour les amis du dnsa 
+echo Bonjour les amis du geoffrey
